@@ -40,8 +40,8 @@ I enjoy creating things on the web, experimenting with new ideas, solving proble
 
 - 💻 **GitHub:** [@adamhussein8045](https://github.com/adamhussein8045)
 - 📘 **Facebook:** [@adamHussein8045](https://www.facebook.com/adamHussein8045)
-- 🎮 **Twitch:** [@adamhussein8045](https://www.twitch.tv/adamhussein8045)
 - 🎵 **Spotify:** [My Spotify](https://open.spotify.com/user/31q7p2wohjadsn6vt6kkzxhp2cdy)
+- 🎮 **Twitch:** [@adamhussein8045](https://www.twitch.tv/adamhussein8045)
 - 🎮 **CrazyGames:** [My CrazyGames Profile](https://www.crazygames.com/uid/SvOn3Np6s9Y8vZMktJQ7g2ndySB3)
 
 ---
