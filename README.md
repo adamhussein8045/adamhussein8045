@@ -34,3 +34,7 @@ I enjoy building websites and turning ideas into real projects.
 
 GitHub:
 https://github.com/adamhussein8045
+https://www.facebook.com/adamHussein8045
+https://www.twitch.tv/adamhussein8045
+https://open.spotify.com/user/31q7p2wohjadsn6vt6kkzxhp2cdy
+
