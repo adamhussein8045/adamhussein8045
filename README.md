@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="profile.jpeg" width="180">
-
-# Adam Hussein
 
 ### Web Developer • Builder • Creator
 
