@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="coding.gif" width="700">
+<img src="profile.png" width="180">
+
+# Adam Hussein
+
+Web Developer • Egypt 🇪🇬
+
+</div>
 
 # Hey, I'm Adam Hussein 👋
 
