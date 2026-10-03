@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="profile.jpeg" width="180">
+<img src="profile.jpeg" width="100%">
 
 # Adam Hussein
 
-Web Developer • Egypt 🇪🇬
+Web Developer
 
 </div>
 
