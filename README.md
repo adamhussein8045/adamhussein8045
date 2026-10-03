@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpeg" width="50%">
+<img src="profile.jpeg" width="20%">
 
 # Adam Hussein
 
