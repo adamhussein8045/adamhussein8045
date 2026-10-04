@@ -34,12 +34,7 @@ I enjoy creating things on the web, experimenting with new ideas, solving proble
 
 ## 🌐 Connect With Me
 
-- 💻 **GitHub:** [@adamhussein8045](https://github.com/adamhussein8045)
-- 📘 **Facebook:** [@adamHussein8045](https://www.facebook.com/adamHussein8045)
-- 🎵 **Spotify:** [@adamHussein8045](https://open.spotify.com/user/31q7p2wohjadsn6vt6kkzxhp2cdy)
-- 🎮 **Twitch:** [@adamhussein8045](https://www.twitch.tv/adamhussein8045)
-- 🎮 **CrazyGames** [@adamhussein8045](https://www.crazygames.com/uid/SvOn3Np6s9Y8vZMktJQ7g2ndySB3)
-- 💻 **Foony:** [@adamhussein8045](https://foony.com/@adamhussein_8045)
+- 💻 **Linktree:** [@adamhussein8045](https://linktr.ee/adamhussein8045)
 ---
 
 <div align="center">
