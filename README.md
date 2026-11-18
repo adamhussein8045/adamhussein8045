@@ -43,9 +43,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/adamhussein8045/adamhussein8045/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=""  />
-</div>
-
-###
