@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/adamhussein8045/adamhussein8045/snake-output/snake.svg" alt="Snake animation" />
 
 ###
