@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Hi 👋! My name is Adam Hussein and I'm a Web Devolopment</h3>
+<h3 data-importer="text" align="left">Hi 👋! My name is Adam Hussein and I'm a Web Devoloper</h3>
 
 ###
 
